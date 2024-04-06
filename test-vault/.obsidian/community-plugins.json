@@ -1,5 +1,7 @@
 [
   "hot-reload",
   "journals",
-  "templater-obsidian"
+  "templater-obsidian",
+  "periodic-notes",
+  "homepage"
 ]
